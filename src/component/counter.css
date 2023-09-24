@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: black;
+}
+.container {
+  text-align: center;
+  margin: 20rem;
+}
+h1 {
+  font-weight: 100px;
+  color: aqua;
+}
+button {
+  background-color: aqua;
+  color: red;
+  padding: 20px 50px;
+  font-size: 20px;
+  margin: 1rem;
+}
